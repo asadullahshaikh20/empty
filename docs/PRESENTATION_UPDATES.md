@@ -1,4 +1,4 @@
-# Slide text to align `23F-34_Presentation.pptx` with the 30% implementation
+# Slide text to align `project_documents/23F-34_Presentation.pptx` with the 30% implementation
 
 Some statements in the mid-progress deck describe work that is not in the current code. Evaluators will see the
 demo, so each slide should match what runs. Replace the text below; slides not listed (1, 2, 4, 6, 7, 8) can stay.
