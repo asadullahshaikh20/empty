@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Data, checkpoints and runtime storage (large / private)
+data/
+ml/data/
+ml/runs/
+ml/checkpoints/
+*.pt
+*.pth
+backend/storage/
+backend/models/
+
+# Secrets
+.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
